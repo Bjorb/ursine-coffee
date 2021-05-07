@@ -1,0 +1,56 @@
+header{
+    background-color: #2f1f0b6c;
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+   
+  
+}
+.frontpage{ 
+    
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-image: url(img/coffe2.jpg);
+    
+}
+h1{
+    padding-bottom: 0.2rem;
+    border-bottom: solid ;
+    align-self: center;
+    font-family: 'Cinzel Decorative', cursive;
+    text-align: center;
+    margin: 0px; 
+    color: white;
+    font-size: 3rem;
+    
+    
+}
+nav{
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+}
+h2:hover{
+    cursor: pointer;
+    background-color: #ffffff36;
+}
+h2{
+    width: fit-content;
+    margin-right: 0rem;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-size: 3rem ;
+    color: white;
+}
+body{
+    overflow-x: hidden;
+    display: grid;
+    grid-template-rows: 1fr auto 1fr;
+    margin: 0px;
+}
+
+font-family: 'Cinzel', serif;
+font-family: 'Cinzel Decorative', cursive;
+font-family: 'Fredericka the Great', cursive;
