@@ -16,7 +16,7 @@ h3 {
 .frontpage {
   display: flex;
   background-size: cover;
-  background-image: url(img/coffe2.jpg);
+  background-image: url(img/Coffee1.jpg);
 }
 h1 {
   top: 20px;
@@ -43,7 +43,7 @@ nav {
   top: 0;
   left: 0;
 
-  background-image: url(https://images.unsplash.com/photo-1512568400610-62da28bc8a13?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y29mZmVlfGVufDB8MXwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+  background-image: url(img/navImg.jpg);
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -158,11 +158,11 @@ body {
 
 .img1 {
   border-radius: 5px 5px;
-  background-image: url(https://images.unsplash.com/photo-1523942839745-7848c839b661?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=800);
+  background-image: url(img/homeImg1.jpg);
 }
 .img2 {
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1614738149154-d6c9f6668b34?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=8);
+  background-image: url(img/homeImg2.jpg);
 }
 .shopPreview {
   height: 80vh;
@@ -205,7 +205,7 @@ body {
 }
 .shopImg {
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1550681560-af9bc1cb339e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+  background-image: url(img/shopImg.jpg);
 }
 .Product {
   height: fit-content;
@@ -221,6 +221,10 @@ body {
   text-align: center;
   background-color: firebrick;
 }
+.subImg{
+  background-size: cover;
+  background-image: url(img/SubImg.jpg);
+}
 
 .Subintro {
   margin-top: 5rem;
@@ -235,7 +239,7 @@ body {
 
 .SubImg1 {
   grid-area: 1 / 1 / 9 / 5;
-  background-image: url(https://images.unsplash.com/photo-1509785307050-d4066910ec1e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1256&q=80);
+  background-image: url(img/subImg1.jpg);
 }
 
 .subhtext1 {
@@ -290,7 +294,7 @@ body {
 .SubImg2 {
   grid-area: 1 / 5 / 9 / 9;
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1582902204632-294513f517b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+  background-image: url(img/subImg2.jpg);
 }
 
 .subhtext2 {
@@ -306,7 +310,7 @@ body {
 }
 .AboutImg {
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1612346903007-b5ac8bb135bb?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80);
+  background-image: url(img/aboutImg.jpg);
 }
 .About1 {
   margin-top: 5rem;
@@ -321,7 +325,7 @@ body {
 .AboutImg1 {
   grid-area: 1 / 5 / 9 / 9;
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1552346989-e069318e20a5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1506&q=80);
+  background-image: url(img/aboutImg1.jpg);
 }
 
 .Abouthtext1 {
@@ -350,7 +354,7 @@ body {
 .AboutImg2 {
   grid-area: 1 / 1 / 9 / 5;
   background-size: cover;
-  background-image: url(https://images.unsplash.com/photo-1613399421011-1e634fa4dacc?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2549&q=80);
+  background-image: url(img/aboutImg2.jpg);
 }
 
 .Abouthtext2 {
